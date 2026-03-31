@@ -1,4 +1,4 @@
-# 🎉 Welcome to DESN368 CODE + DESIGN ONE!
+# 🎉 Welcome to DESN368 CODE + DESIGN ONE 
 Travis Masingale · Spring 2026
 
 **Welcome to DESN368 Web Design!**
